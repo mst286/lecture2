@@ -2,4 +2,5 @@
 
 test to generate conflict
 
+<<<<<<< HEAD
 conflict2
